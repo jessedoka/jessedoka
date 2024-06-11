@@ -1,4 +1,4 @@
-## 👋 I'm Jesse and a computer science student from the UK.
+## 👋 I'm Jesse 
 
 ```yaml
 frontend: react/nextjs/gatsby, styled-components/tailwind,
